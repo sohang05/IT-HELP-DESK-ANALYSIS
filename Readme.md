@@ -24,5 +24,7 @@ __In the Tickets Table__
 
 ![IT HelpDesk Analysis (1)_page-0001](https://github.com/sohang05/IT-HELP-DESK-ANALYSIS/assets/73344291/f8b6c4e6-dbc6-4a9b-9f2b-f706b9065e10)
 
+![IT HelpDesk Analysis (1)_page-0002](https://github.com/sohang05/IT-HELP-DESK-ANALYSIS/assets/73344291/9eada3ed-4b94-44dd-bf7e-f210e99ced34)
+
 
 
